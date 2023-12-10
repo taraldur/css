@@ -1,0 +1,38 @@
+.navbar{
+    text-align: center;
+}
+
+.navbar h2{
+    color: red;
+    font-family: sans-serif;
+}
+
+.navbar a{
+    font-size: 20px;
+}
+
+.liste{
+    text-align: center;
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    margin: 5px;
+    list-style-position: inside;
+}
+
+.urun>ol>li{
+    align-items: center;
+    display: flex;
+}
+.urun>ol>li>img{
+    width: auto;
+    height: 300px;
+}
+
+.urun>ol>h4{
+    margin: 0;
+    text-align: left;
+}
